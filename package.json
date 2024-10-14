@@ -1,0 +1,16 @@
+{
+    "name": "liledix4-image-resizer",
+    "version": "0.2.0-beta.2",
+    "main": "main.mjs",
+    "scripts": {
+        "start": "node main.mjs",
+        "test": "node test.mjs"
+    },
+    "author": "liledix4",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+        "images-folder-optimizer": "^0.0.37",
+        "sharp": "^0.33.4"
+    }
+}
